@@ -39,5 +39,8 @@ To run the program, follow these steps:
    ```bash
    kotlinc KotlinBMI.kt -include-runtime -d BMI.jar
 
-For Python on Windows, pull up the cmd (command prompt) amd hir the python PythonBMI.py 
+
 For Linux, you're already an expect man....
+For Python on Windows, pull up the cmd (command prompt) amd hir the 
+```bash 
+python PythonBMI.py
