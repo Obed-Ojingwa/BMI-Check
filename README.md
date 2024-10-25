@@ -2,6 +2,11 @@
 
 This is a simple command-line Body Mass Index (BMI) calculator written in Kotlin. The program calculates the BMI based on the user's weight (in kilograms) and height (in meters) and categorizes it into underweight, normal weight, overweight, or obese.
 
+## Contribution
+
+We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for more details. Contact me from there too.
+
+
 ## Features
 
 - Takes user input for weight and height.
